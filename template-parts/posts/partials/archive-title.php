@@ -7,9 +7,7 @@
  */
 
 ?>
-
 <header class="archive-page-header ">
-	<?php echo [block id="header-page"] ?>
 	<div class="row">
 	<div class="large-12 text-center col">
 	<h1 class="page-title is-large uppercase">
